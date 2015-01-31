@@ -1,9 +1,14 @@
+
 body {
     background-color: 	#FFFBF3;
+    border: solid white 40px;
+    margin: 0 auto;
 }
-h1{
+#home{
 	text-align: center;
 	font-family: Verdana, Geneva, sans-serif;
+	font-size: 40px;
+	color: red;
 }
 a{
 	color:blue;
